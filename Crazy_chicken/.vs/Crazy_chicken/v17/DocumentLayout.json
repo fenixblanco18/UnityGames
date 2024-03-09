@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monte\\Documents\\UnityGames\\Crazy_chicken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D159AD-C47D-2CDD-8EE4-A1CE5553A65A}|Assembly-CSharp.csproj|c:\\users\\monte\\documents\\unitygames\\crazy_chicken\\assets\\animals_free\\scripts\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D159AD-C47D-2CDD-8EE4-A1CE5553A65A}|Assembly-CSharp.csproj|solutionrelative:assets\\animals_free\\scripts\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D159AD-C47D-2CDD-8EE4-A1CE5553A65A}|Assembly-CSharp.csproj|C:\\Users\\monte\\Documents\\UnityGames\\Crazy_chicken\\assets\\animals_free\\scripts\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D159AD-C47D-2CDD-8EE4-A1CE5553A65A}|Assembly-CSharp.csproj|solutionrelative:assets\\animals_free\\scripts\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\monte\\Documents\\UnityGames\\Crazy_chicken\\Assets\\Animals_FREE\\Scripts\\Cars.cs",
+              "RelativeDocumentMoniker": "Assets\\Animals_FREE\\Scripts\\Cars.cs",
+              "ToolTip": "C:\\Users\\monte\\Documents\\UnityGames\\Crazy_chicken\\Assets\\Animals_FREE\\Scripts\\Cars.cs",
+              "RelativeToolTip": "Assets\\Animals_FREE\\Scripts\\Cars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:31:07.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chicken.cs",
+              "DocumentMoniker": "C:\\Users\\monte\\Documents\\UnityGames\\Crazy_chicken\\Assets\\Animals_FREE\\Scripts\\chicken.cs",
+              "RelativeDocumentMoniker": "Assets\\Animals_FREE\\Scripts\\chicken.cs",
+              "ToolTip": "C:\\Users\\monte\\Documents\\UnityGames\\Crazy_chicken\\Assets\\Animals_FREE\\Scripts\\chicken.cs",
+              "RelativeToolTip": "Assets\\Animals_FREE\\Scripts\\chicken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:29:28.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

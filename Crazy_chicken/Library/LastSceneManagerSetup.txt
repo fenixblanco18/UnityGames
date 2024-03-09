@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/monte/Documents/GitHub/Ejercicio_2/Assets/_GameAssets/Scenes/InteriorScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
